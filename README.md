@@ -1,10 +1,8 @@
 # guest_house_management_system
 
 Team members
-Nithin
-Vivek
-Upendra
-Kaushtubh
+Priyanka
+Navanidhiram
 
 *************************************************************************************************************************************
 1)Software requirements : xampp
